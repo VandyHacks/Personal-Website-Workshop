@@ -1,0 +1,38 @@
+#navigation {
+    padding: 15px;
+    border-top: 2px solid #000000;
+    border-bottom: 2px solid #000000;
+}
+h1 {
+    background-color: darkcyan;
+}
+body {
+    background-color: rgb(200,200,200);
+}
+ul{
+    margin: 0px auto 0px auto;
+    text-align: center;
+    width: 600px;
+    height: 50px;
+}
+li{
+    display: inline;
+}
+.container {
+    padding: 15px;
+    width: 650px;
+    margin: auto;
+}
+#first {
+    width: 225px;
+    float: left;
+    height: 225px;
+}
+#second {
+    width: 425px;
+    float: left;
+    height: 225px;
+}
+#text {
+    padding: 10px;
+}
