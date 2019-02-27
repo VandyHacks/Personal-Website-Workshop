@@ -6,6 +6,7 @@
 h1 {
     background-color: darkcyan;
 }
+a:hover {background-color: #ee3e80}
 body {
     background-color: rgb(200,200,200);
 }

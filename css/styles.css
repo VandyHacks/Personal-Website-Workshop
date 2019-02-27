@@ -6,11 +6,14 @@ h1 {
 }
 p {
     background-color: #ee3e80;
+    font-family: 'Open Sans', sans-serif;
     padding: 10pt;
     height: 100px;
     width: 400px;
     margin: 10px auto 10px auto;
+    border-radius: 25px;
 }
+a:hover {background-color: #ee3e80}
 ul{
     margin: 0px auto 0px auto;
     text-align: center;

@@ -2,6 +2,7 @@
     text-align: center; 
     padding: 10pt;
 }
+a:hover {background-color: #ee3e80}
 #navigation {
     padding: 15px;
     border-top: 2px solid #000000;

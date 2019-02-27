@@ -2,6 +2,7 @@ body {
     background-color: rgb(200,200,200);
     justify-content: center;
 }
+a:hover {background-color: #ee3e80}
 h1 {
     background-color: darkcyan;
 }
